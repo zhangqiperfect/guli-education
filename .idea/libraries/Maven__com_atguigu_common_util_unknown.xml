@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.atguigu:common-util:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/atguigu/common-util/unknown/common-util-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/atguigu/common-util/unknown/common-util-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/atguigu/common-util/unknown/common-util-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
